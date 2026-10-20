@@ -9,7 +9,6 @@ It exposes these capabilities through a REST API built with **Python, Pandas, an
 
 - **Live API:** https://marketpilot-ai-mvlb.onrender.com
 - **Interactive API Docs:** https://marketpilot-ai-mvlb.onrender.com/docs
-- **GitHub Repository:** https://github.com/kalyanuppula/MarketPilot-AI
 
 > Note: The Render free instance may spin down after inactivity. The first request after a period of inactivity can take around 50 seconds or more to respond.
 
